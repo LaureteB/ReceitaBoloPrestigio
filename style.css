@@ -8,11 +8,12 @@
 
 .imgtitulo1{
     width: 250px;
+    height: auto;
     align-items: center;
     display: flex;
     justify-content: center;
     margin: 0%;
-    height: auto;
+    max-width: 100%;
 }
 
 .titulo2 {
