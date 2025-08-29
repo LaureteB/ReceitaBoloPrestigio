@@ -8,7 +8,9 @@
 .imgtitulo1{
     width: 250px;
     height: auto;
-    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .titulo2 {
