@@ -12,7 +12,6 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    margin: 0%;
     max-width: 100%;
 }
 
@@ -21,7 +20,7 @@
     text-align:center ;
     color: black;
     background-color: burlywood;
-    margin: 0%;
+    margin: 1%;
     background-size: 100%;
     width: 100%;
 }
