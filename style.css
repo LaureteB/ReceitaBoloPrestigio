@@ -6,12 +6,11 @@
 }
 
 .imgtitulo1{
-    width: 500px;
+    width: 250px;
     height: auto;
     align-items: center;
 }
 
 * {
     align-items: center;
-    text-align: center;
 }
