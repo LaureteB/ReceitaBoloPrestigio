@@ -1,5 +1,5 @@
 .titulo1{
-    background-color: tan;
+    background-color: burlywood;
     color: black;
     text-align: center;
     margin: 0px;
@@ -11,6 +11,9 @@
     align-items: center;
 }
 
-* {
+.titulo2 {
     align-items: center;
+    text-align:center ;
+    color: black;
+    background-color: burlywood;
 }
