@@ -3,6 +3,7 @@
     color: black;
     text-align: center;
     margin: 0%;
+    
 }
 
 .imgtitulo1{
@@ -11,6 +12,7 @@
     display: flex;
     justify-content: center;
     margin: 0%;
+    height: auto;
 }
 
 .titulo2 {
@@ -19,4 +21,5 @@
     color: black;
     background-color: burlywood;
     margin: 0%;
+    background-size: 100%;
 }
