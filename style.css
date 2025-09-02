@@ -33,3 +33,7 @@ p {
 .textocentro {
     text-align: center;
 }
+
+* {
+    background-color: aliceblue;
+}
