@@ -25,6 +25,11 @@
     width: 100%;
     margin: 0px;
 }
-p{
+
+p {
+    text-align: center;
+}
+
+.textocentro {
     text-align: center;
 }
